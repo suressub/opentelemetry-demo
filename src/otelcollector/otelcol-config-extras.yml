@@ -10,7 +10,7 @@
 ##
 #  exporters:
 #    otlphttp/example:
-#      endpoint: <your-endpoint-url>
+#      endpoint: http://18.222.202.234
 #
 #  service:
 #    pipelines:
